@@ -67,15 +67,19 @@ Download filtered playlist data as a CSV file for further analysis.
 ## 🗂️ Project Structure
 
 ```text
-us-top-50-playlist-analysis/
+United-States-Top-50-Playlist-Performance-and-Song-Popularity-Trend-Analysis/
 │
-├── app.py
-├── requirements.txt
-├── README.md
-├── playlist_cleaned.csv
+├── README.md               # Markdown (.md)
+├── requirements.txt        # Plain text
+├── main.py                 # Python script (.py)
+├── app.py                  # Streamlit application (.py)
+│
 ├── sql/
-├── reports/
-└── screenshots/
+│   ├── queries.sql         # SQL script (.sql)
+│   
+│
+└── notebooks/
+    └── analysis.ipynb      # Jupyter Notebook (.ipynb)
 ```
 
 *The `sql`, `reports`, and `screenshots` folders are suggested additions for organizing your project deliverables.*
