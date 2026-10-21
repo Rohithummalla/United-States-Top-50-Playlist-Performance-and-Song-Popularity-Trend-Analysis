@@ -91,8 +91,8 @@ us-top-50-playlist-analysis/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/Rohithummalla/us-top-50-playlist-analysis.git
-cd us-top-50-playlist-analysis
+git clone https://github.com/Rohithummalla/United-States-Top-50-Playlist-Performance-and-Song-Popularity-Trend-Analysis
+cd United-States-Top-50-Playlist-Performance-and-Song-Popularity-Trend-Analysis
 ```
 
 ### Step 2: Create a Virtual Environment
