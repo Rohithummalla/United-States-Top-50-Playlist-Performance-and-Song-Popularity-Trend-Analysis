@@ -83,19 +83,29 @@ Compare performance by available attributes such as explicit content, album type
 ### 7. Data Export
 Download filtered playlist data as a CSV file for further analysis.
 
-## 🗂️ Project Structure
 
-```text
-United-States-Top-50-Playlist-Performance-and-Song-Popularity-Trend-Analysis/
+## 📁 Project Structure
+
+United-States-Top-50-Playlist-Analysis/
 │
-├── app.py
-├── requirements.txt
+├── LICENSE
 ├── README.md
-├── playlist_cleaned.csv
-├── sql/
-├── reports/
-└── screenshots/
-```
+├── United_States_Top_50_Playlist_Performance_and_Song_Analysis
+├── filtered_playlist_music_data.csv
+├── playlist_data.sql
+├── requirements.txt
+└── screenshots.png.zip
+
+📄 File Description
+
+File| Description
+"LICENSE"| Defines the terms for using and distributing the project.
+"README.md"| Contains project overview, objectives, tools, and documentation.
+"United_States_Top_50_Playlist_Performance_and_Song_Analysis"| Main dataset or analysis file; confirm its file extension.
+"filtered_playlist_music_data.csv"| Stores filtered music playlist data for analysis.
+"playlist_data.sql"| Contains SQL queries for data preparation and analysis.
+"requirements.txt"| Lists project dependencies, if applicable.
+"screenshots.png.zip"| Contains screenshots of project outputs and results.
 
 *The `sql`, `reports`, and `screenshots` folders are suggested additions for organizing your project deliverables.*
 
