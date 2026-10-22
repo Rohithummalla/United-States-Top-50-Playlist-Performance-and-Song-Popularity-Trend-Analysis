@@ -53,17 +53,32 @@ Filter playlist data by date range, artist, song, rank, and album type when avai
 ### 2. Popularity Trend Analysis
 Explore how average song popularity changes across observation dates.
 
+<img width="1515" height="645" alt="image" src="https://github.com/user-attachments/assets/a8c7c9fd-2411-4edd-9e93-e79a4244cede" />
+
+
 ### 3. Song Ranking Trends
 Track changes in playlist positions over time.
+
+<img width="1419" height="634" alt="Screenshot 2026-10-21 123713" src="https://github.com/user-attachments/assets/483439ef-715b-4737-896f-34fe6875b55d" />
+
 
 ### 4. Artist Performance Leaderboard
 Compare artists by unique songs, chart activity, average rank, and average popularity.
 
+<img width="1482" height="615" alt="Screenshot 2026-10-21 123739" src="https://github.com/user-attachments/assets/3406cbec-0006-47f3-984f-57e6fbfaf6ce" />
+
+
 ### 5. Popularity vs. Rank
 Investigate the relationship between popularity scores and playlist positions.
 
+<img width="1546" height="667" alt="Screenshot 2026-10-21 123809" src="https://github.com/user-attachments/assets/9f0949c4-4afb-43e6-ab1a-88998091004d" />
+
+
 ### 6. Song Attribute Analysis
 Compare performance by available attributes such as explicit content, album type, and song duration.
+
+<img width="1528" height="656" alt="Screenshot 2026-10-21 123825" src="https://github.com/user-attachments/assets/7e6913a8-0cfe-43b5-8443-26708c3a8f3a" />
+
 
 ### 7. Data Export
 Download filtered playlist data as a CSV file for further analysis.
