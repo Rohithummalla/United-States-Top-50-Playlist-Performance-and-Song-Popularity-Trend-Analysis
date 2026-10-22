@@ -1,5 +1,6 @@
 # 🎵 United States Top 50 Playlist Performance and Song Popularity Trend Analysis
-<img width="1920" height="1080" alt="Screenshot 2026-10-21 123631" src="https://github.com/user-attachments/assets/076b1e29-276d-4472-b30a-450420f5fb8e" />
+<img width="1912" height="773" alt="Screenshot 2026-10-21 123631" src="https://github.com/user-attachments/assets/a3384b06-691e-45cc-bb56-51bbf4ea4156" />
+
 
 An end-to-end data analytics project exploring song rankings, popularity trends, chart persistence, and artist performance using SQL, Python, and an interactive Streamlit dashboard.
 
