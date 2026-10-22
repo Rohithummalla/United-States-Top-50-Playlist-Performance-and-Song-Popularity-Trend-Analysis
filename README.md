@@ -47,6 +47,7 @@ By combining SQL-based analysis, exploratory data analysis (EDA), data visualiza
 
 ### 1. Interactive Filters
 Filter playlist data by date range, artist, song, rank, and album type when available.
+
 <img width="371" height="671" alt="image" src="https://github.com/user-attachments/assets/7ea45300-0ee8-4a90-b2e5-c44ffb915e3f" />
 
 ### 2. Popularity Trend Analysis
